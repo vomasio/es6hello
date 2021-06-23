@@ -8,8 +8,16 @@
     "build": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vomasio",
   "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vomasio/es6hello.git"
+  },
+  "bugs": {
+      "url": "git+https://github.com/vomasio/es6hello.git"
+  },
+  "homepage": "https://github.com/vomasio/es6hello",
   "dependencies": {
     "webpack": "^4.19.0",
     "webpack-cli": "^3.1.0",
